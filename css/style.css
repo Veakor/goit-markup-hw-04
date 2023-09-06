@@ -118,6 +118,17 @@ color:#404BBF;
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+.line-header::after{
+    display: block;
+    width:48px;  
+     height:4px;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #404BBF;
+     content: "";
+     
+}
+
 
 
 /*SECTION HERO*/
@@ -168,7 +179,15 @@ margin-right:auto ;
 
 
 /*SECTION TWO*/
+.icon-one{
+    Width:264px;
+    Height:112px;
+    Radius:4px;
+    border: 1px LIGHT SLATE rgba(142, 143, 153, 1) ;
+    background-color:#F4F4FD;
+     margin-bottom: 8px;
 
+}
 .benefits{
     padding-top: 120px; 
     padding-bottom:120px;
@@ -201,6 +220,20 @@ color:#2E2F42;
 
 
 /*SECTION THREE*/
+.icon-our-team{
+
+}
+.icon-our-title{
+    Width:40px;
+Height:40px;
+background-color: #4D5AE5;
+margin-top: 8px;
+margin-bottom: 32px;
+border-radius:50%;
+padding:0px, 0px, 32px, 0px;
+gap:32px;
+
+}
 
 
 .column-list{
