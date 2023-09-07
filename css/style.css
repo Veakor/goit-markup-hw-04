@@ -196,6 +196,8 @@ margin-right:auto ;
     background-color:#F4F4FD;
      margin-bottom: 8px;
      text-align: center;
+     display: flex;
+     justify-content: center;
      }
 .benefits{
     padding-top: 120px; 
@@ -229,7 +231,15 @@ color:#2E2F42;
 
 
 /*SECTION THREE*/
-.icon-our-team{
+.three-centr-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 8px;
+}
+.icon-svg{
+     
 
 }
 .icon-our-title{
