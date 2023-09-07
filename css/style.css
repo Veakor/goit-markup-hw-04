@@ -74,6 +74,7 @@ color: #2E2F42;
 padding-top:24px;
 padding-bottom:24px;
 display: block;
+position: relative;
 }
 .menu-link:hover,
 .menu-link:focus {
@@ -119,6 +120,9 @@ color:#404BBF;
     overflow: hidden;
 }
 .line-header::after{
+    position: absolute;
+    left: 0;
+    bottom: -1px;
     display: block;
     width:48px;  
      height:4px;
@@ -190,8 +194,8 @@ margin-right:auto ;
     border: 1px LIGHT SLATE rgba(142, 143, 153, 1) ;
     background-color:#F4F4FD;
      margin-bottom: 8px;
-
-}
+     text-align: center;
+     }
 .benefits{
     padding-top: 120px; 
     padding-bottom:120px;
