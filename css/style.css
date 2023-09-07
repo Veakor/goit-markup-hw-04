@@ -196,9 +196,18 @@ margin-right:auto ;
     background-color:#F4F4FD;
      margin-bottom: 8px;
      text-align: center;
-     display: flex;
-     justify-content: center;
+        display: flex;
+        justify-content: center;
+
      }
+     .img-class-centr{
+        width: 64px;
+        height: 64px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+     }
+     
 .benefits{
     padding-top: 120px; 
     padding-bottom:120px;
