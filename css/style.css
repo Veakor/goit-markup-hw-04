@@ -344,6 +344,7 @@ margin-bottom: 72px;
 /*FOOTER*/
 .footer-social-conteiner{
     margin-left: 120px;
+    
 }
 .footer-social-text{
 color: #FFFFFF;
@@ -352,6 +353,7 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 margin-bottom: 16px;
+
 }
 .footer-list{
 display: flex;   
@@ -361,6 +363,7 @@ gap: 16px;
 
 }
 .footer-item{
+    
     width: 40px;
     height: 40px;
     background-color: #4D5AE5;
