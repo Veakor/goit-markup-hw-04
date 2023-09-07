@@ -201,8 +201,6 @@ margin-right:auto ;
 
      }
      .img-class-centr{
-        width: 64px;
-        height: 64px;
         display: flex;
         text-align: center;
         justify-content: center;
