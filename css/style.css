@@ -187,6 +187,7 @@ margin-right:auto ;
 
 
 /*SECTION TWO*/
+
 .icon-one{
     Width:264px;
     Height:112px;
@@ -349,6 +350,10 @@ margin-bottom: 72px;
 
 
 /*FOOTER*/
+.footer-container{
+    display: flex;
+    align-items: baseline;
+}
 .footer-social-conteiner{
     margin-left: 120px;
     
