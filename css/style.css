@@ -195,7 +195,7 @@ margin-right:auto ;
     border: 1px LIGHT SLATE rgba(142, 143, 153, 1) ;
     background-color:#F4F4FD;
      margin-bottom: 8px;
-     text-align: center;
+     align-items: center;
         display: flex;
         justify-content: center;
 
@@ -250,7 +250,7 @@ color:#2E2F42;
 
 }
 .icon-our-title{
-    Width:40px;
+Width:40px;
 Height:40px;
 background-color: #4D5AE5;
 margin-top: 8px;
@@ -401,6 +401,10 @@ column-gap: 16px;
     justify-content: center;
     align-items: center;
     display: flex;
+}
+.footer-item:hover,
+.footer-item:focus{
+    background-color: #404BBF;
 }
 
 .color-team{
