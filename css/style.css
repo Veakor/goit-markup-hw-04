@@ -189,9 +189,9 @@ margin-right:auto ;
 /*SECTION TWO*/
 
 .icon-one{
-    Width:264px;
-    Height:112px;
-    Radius:4px;
+    width:264px;
+    height:112px;
+    border-radius:4px;
     border: 1px LIGHT SLATE rgba(142, 143, 153, 1) ;
     background-color:#F4F4FD;
      margin-bottom: 8px;
@@ -244,10 +244,6 @@ color:#2E2F42;
     justify-content: center;
     gap: 24px;
     margin-top: 8px;
-}
-.icon-svg{
-     
-
 }
 .icon-our-title{
 Width:40px;
