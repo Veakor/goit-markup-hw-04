@@ -247,6 +247,10 @@ color:#2E2F42;
 
 
 /*SECTION THREE*/
+.icon-svg{
+    fill: #f4f4fd ;
+
+}
 .three-centr-section{
     display: flex;
     align-items: center;
