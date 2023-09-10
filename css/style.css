@@ -308,7 +308,6 @@ margin-bottom: 72px;
 .our-team-title{
 text-align: center;
 background-color: #F4F4FD;
-box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),0px 1px 6px rgba(46, 47, 66, 0.08); 
 }
 .paragraf-prof{
     text-align: center;
@@ -431,6 +430,7 @@ column-gap: 16px;
     align-items: center;
     display: flex;
     gap: 16px;
+    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),0px 1px 6px rgba(46, 47, 66, 0.08); 
 }
 .footer-item:hover,
 .footer-item:focus{
