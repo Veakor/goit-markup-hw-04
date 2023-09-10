@@ -264,7 +264,10 @@ color:#2E2F42;
     gap: 24px;
     margin-top: 8px;
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),0px 1px 6px rgba(46, 47, 66, 0.08); 
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+
 .icon-our-title{
 Width:40px;
 Height:40px;
@@ -321,7 +324,7 @@ background-color: #F4F4FD;
     display: flex;
     align-items: center; 
     justify-content: center;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
     }
     .three-centr-section:hover,
     .three-centr-section:focus{
