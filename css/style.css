@@ -29,7 +29,7 @@ cursor: pointer;
 }
 .page-heder{ 
     border-bottom: 1px solid #e7e9fc;
-    box-shadow:
+    box-shadow: 0px 2px 1px rgba, 0px 1px 1px rgba,0px 1px 6px rgba;
 }
 img{
     display: block;
@@ -76,8 +76,6 @@ padding-top:24px;
 padding-bottom:24px;
 display: block;
 position: relative;
-
-
 }
 
 
