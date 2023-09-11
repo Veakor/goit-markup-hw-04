@@ -158,6 +158,8 @@ background-size: cover;
 max-width: 1440px; 
 background-repeat: no-repeat;
 background-position: center; 
+margin-left:auto ;
+margin-right:auto ;
 }
 
 .main-item-h{
